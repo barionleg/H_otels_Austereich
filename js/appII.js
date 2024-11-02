@@ -32,7 +32,7 @@ var startSpeech = function() {
             responsiveVoice.speak(info, "US English Female", {rate: speechSpeed});
             break;
         case "4":            
-            responsiveVoice.speak(info, "US English Male", {rate: speechSpeed});
+            responsiveVoice.speak(info, "French Female", {rate: speechSpeed});
             break;
         case "5":
             responsiveVoice.speak(info, "Australian Female", {rate: speechSpeed});
