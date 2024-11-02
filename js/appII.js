@@ -47,7 +47,7 @@ var startSpeech = function() {
             responsiveVoice.speak(info, "Japanese Female", {rate: speechSpeed});
             break;
         case "9":
-            responsiveVoice.speak(info, "Korean Female", {rate: speechSpeed});
+            responsiveVoice.speak(info, "Russian Female", {rate: speechSpeed});
             break;
                 case "10":
             responsiveVoice.speak(info, "UK English Female",{rate: speechSpeed});
