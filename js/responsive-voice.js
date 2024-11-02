@@ -1,20 +1,3 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@barionleg
-barionleg/responsive-voice.js
-Forked from anchetaWern/responsive-voice.js
-Created 6 hours ago
-Code
-Revisions
-1
-Clone this repository at &lt;script src=&quot;https://gist.github.com/barionleg/91c77d53fd10eeeb5daf49857bb01ef2.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/barionleg/91c77d53fd10eeeb5daf49857bb01ef2.js"></script>
-responsive-voice.js
-responsive-voice.js
 //Look for other responsivevoice instances
 /*if (window.parent != null) {
     var iframes = window.parent.document.getElementsByTagName('iframe');
@@ -760,19 +743,3 @@ if (typeof responsiveVoice != 'undefined') {
     }
     var responsiveVoice = new ResponsiveVoice();
 }
-@barionleg
-Comment
- 
-Leave a comment
- 
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
