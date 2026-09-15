@@ -79,6 +79,9 @@ var startSpeech = function() {
         case "19":
             responsiveVoice.speak(info, "Korean Female", {rate: speechSpeed});
             break;
+        case "20":
+            responsiveVoice.speak(info, "Georgian Female", {rate: speechSpeed});
+            break;     
     }
 }
 
